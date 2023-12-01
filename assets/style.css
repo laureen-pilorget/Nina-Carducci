@@ -72,16 +72,16 @@ body {
 
 }
 .picture.right img {
-	width: 419px;
-	height: 418px;
+	max-width: 419px;
+	max-height: 418px;
 }
 .picture.left img {
-	width: 560px;
-	height: 558px;
+	max-width: 560px;
+	max-height: 558px;
 }
 .carousel-item img {
-	width: 1920px;
-	height: 888px;
+	max-width: 1920px;
+	max-height: 888px;
 }
 .social-link img {
 	width: 20px;
